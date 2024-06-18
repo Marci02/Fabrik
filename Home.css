@@ -1,0 +1,343 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1656px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 569px;
+  width: 570px;
+  background-image: none;
+  height: auto;
+  margin: 89px 0 0 570px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 29px 60px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  margin: 26px auto 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 156px;
+  height: 155px;
+  margin: -562px 600px 0 384px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 254px;
+  height: 254px;
+  background-image: url("images/65469531-0.png");
+  background-position: 50% 50%;
+  margin: -149px auto 0 71px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 628px;
+  height: 628px;
+  background-image: url("images/Android-Phone-Repair.jpg");
+  background-position: 50% 50%;
+  margin: 332px 20px 0 auto;
+}
+
+.u-section-1 .u-image-3 {
+  width: 435px;
+  height: 435px;
+  background-image: url("images/65469531-0.jpeg");
+  background-position: 50% 50%;
+  margin: -983px auto 0 115px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 131px auto 0 59px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 20px auto 0 82px;
+}
+
+.u-section-1 .u-shape-2 {
+  width: 218px;
+  height: 218px;
+  margin: 170px 863px 60px 59px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    min-height: 517px;
+    width: 470px;
+    margin-top: 154px;
+    margin-right: -20px;
+    margin-left: auto;
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 134px;
+    height: 135px;
+    margin-top: -588px;
+    margin-right: 500px;
+    margin-left: 309px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 249px;
+    height: 249px;
+    margin-top: -100px;
+    margin-left: 21px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 615px;
+    height: 615px;
+    margin-top: 705px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 422px;
+    height: 422px;
+    margin-top: -1290px;
+    margin-right: 484px;
+    margin-left: 34px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 69px;
+    margin-left: 43px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-left: 88px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-top: -365px;
+    margin-right: 69px;
+    margin-left: 653px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1722px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 670px;
+    width: 374px;
+    margin-top: 214px;
+    margin-right: auto;
+    margin-left: 20px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 112px;
+    height: 114px;
+    margin-top: -789px;
+    margin-right: 103px;
+    margin-left: 505px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 224px;
+    height: 224px;
+    margin-top: -873px;
+    margin-right: 476px;
+    margin-left: 20px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 575px;
+    height: 575px;
+    margin-top: 800px;
+    margin-right: auto;
+    margin-left: 11px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 343px;
+    height: 343px;
+    margin-top: -1276px;
+    margin-right: 0;
+    margin-left: 377px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 105px;
+    margin-right: 58px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin: 26px 69px 60px auto;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 183px;
+    height: 183px;
+    margin-top: -747px;
+    margin-right: 31px;
+    margin-left: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1568px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 615px;
+    width: 351px;
+    margin-top: 199px;
+    margin-right: 126px;
+    margin-left: 63px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: -344px;
+    margin-right: 13px;
+    margin-left: 77px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 186px;
+    height: 186px;
+    margin-top: -819px;
+    margin-right: 0;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 451px;
+    height: 451px;
+    margin-top: 937px;
+    margin-right: -50px;
+    margin-left: 139px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 340px;
+    height: 340px;
+    margin-top: -775px;
+    margin-right: auto;
+    margin-left: -37px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -310px;
+    margin-right: 81px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 10px;
+    margin-right: -22px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 152px;
+    height: 152px;
+    margin-top: -156px;
+    margin-right: 0;
+    margin-left: 13px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1871px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 713px;
+    width: 268px;
+    margin-top: 216px;
+    margin-right: 52px;
+    margin-left: 20px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 97px;
+    height: 99px;
+    margin-top: -460px;
+    margin-right: 73px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -899px;
+    margin-right: auto;
+    margin-left: -16px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 320px;
+    height: 320px;
+    margin-top: 1233px;
+    margin-right: 0;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 287px;
+    height: 287px;
+    margin-top: -637px;
+    margin-right: 103px;
+    margin-left: -50px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -500px;
+    margin-right: 205px;
+    margin-left: -16px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 30px;
+    margin-right: 61px;
+    margin-left: 20px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 125px;
+    height: 125px;
+    margin-top: -881px;
+    margin-left: 122px;
+  }
+}
